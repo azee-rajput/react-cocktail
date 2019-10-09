@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-cocktail/static/css/main.f8eef940.chunk.css",
-    "main.js": "/react-cocktail/static/js/main.58fe7e67.chunk.js",
-    "main.js.map": "/react-cocktail/static/js/main.58fe7e67.chunk.js.map",
+    "main.js": "/react-cocktail/static/js/main.fe3c3a5f.chunk.js",
+    "main.js.map": "/react-cocktail/static/js/main.fe3c3a5f.chunk.js.map",
     "runtime-main.js": "/react-cocktail/static/js/runtime-main.bf0d185b.js",
     "runtime-main.js.map": "/react-cocktail/static/js/runtime-main.bf0d185b.js.map",
     "static/css/2.04aae6c4.chunk.css": "/react-cocktail/static/css/2.04aae6c4.chunk.css",
-    "static/js/2.b0cf2506.chunk.js": "/react-cocktail/static/js/2.b0cf2506.chunk.js",
-    "static/js/2.b0cf2506.chunk.js.map": "/react-cocktail/static/js/2.b0cf2506.chunk.js.map",
+    "static/js/2.69fbafa3.chunk.js": "/react-cocktail/static/js/2.69fbafa3.chunk.js",
+    "static/js/2.69fbafa3.chunk.js.map": "/react-cocktail/static/js/2.69fbafa3.chunk.js.map",
     "index.html": "/react-cocktail/index.html",
-    "precache-manifest.c3648292943ca50efdce95bd61ac8962.js": "/react-cocktail/precache-manifest.c3648292943ca50efdce95bd61ac8962.js",
+    "precache-manifest.9c5455e0e4b47948d2bd577af744a510.js": "/react-cocktail/precache-manifest.9c5455e0e4b47948d2bd577af744a510.js",
     "service-worker.js": "/react-cocktail/service-worker.js",
     "static/css/2.04aae6c4.chunk.css.map": "/react-cocktail/static/css/2.04aae6c4.chunk.css.map",
     "static/css/main.f8eef940.chunk.css.map": "/react-cocktail/static/css/main.f8eef940.chunk.css.map",
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.bf0d185b.js",
     "static/css/2.04aae6c4.chunk.css",
-    "static/js/2.b0cf2506.chunk.js",
+    "static/js/2.69fbafa3.chunk.js",
     "static/css/main.f8eef940.chunk.css",
-    "static/js/main.58fe7e67.chunk.js"
+    "static/js/main.fe3c3a5f.chunk.js"
   ]
 }
