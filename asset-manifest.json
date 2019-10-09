@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-cocktail/static/css/main.27e55d01.chunk.css",
-    "main.js": "/react-cocktail/static/js/main.28e54344.chunk.js",
-    "main.js.map": "/react-cocktail/static/js/main.28e54344.chunk.js.map",
+    "main.js": "/react-cocktail/static/js/main.8dfa6ab8.chunk.js",
+    "main.js.map": "/react-cocktail/static/js/main.8dfa6ab8.chunk.js.map",
     "runtime-main.js": "/react-cocktail/static/js/runtime-main.bf0d185b.js",
     "runtime-main.js.map": "/react-cocktail/static/js/runtime-main.bf0d185b.js.map",
     "static/css/2.04aae6c4.chunk.css": "/react-cocktail/static/css/2.04aae6c4.chunk.css",
     "static/js/2.351f69fa.chunk.js": "/react-cocktail/static/js/2.351f69fa.chunk.js",
     "static/js/2.351f69fa.chunk.js.map": "/react-cocktail/static/js/2.351f69fa.chunk.js.map",
     "index.html": "/react-cocktail/index.html",
-    "precache-manifest.db7fd9498c938b10fb0faf5653e40199.js": "/react-cocktail/precache-manifest.db7fd9498c938b10fb0faf5653e40199.js",
+    "precache-manifest.40af85af12da1cc107116425ab04121c.js": "/react-cocktail/precache-manifest.40af85af12da1cc107116425ab04121c.js",
     "service-worker.js": "/react-cocktail/service-worker.js",
     "static/css/2.04aae6c4.chunk.css.map": "/react-cocktail/static/css/2.04aae6c4.chunk.css.map",
     "static/css/main.27e55d01.chunk.css.map": "/react-cocktail/static/css/main.27e55d01.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.04aae6c4.chunk.css",
     "static/js/2.351f69fa.chunk.js",
     "static/css/main.27e55d01.chunk.css",
-    "static/js/main.28e54344.chunk.js"
+    "static/js/main.8dfa6ab8.chunk.js"
   ]
 }
