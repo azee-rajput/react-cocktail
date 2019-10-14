@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "751e2c0095c85b5d5e609f0f9bd1db23",
+    "revision": "8565d698511f751f927fce6d6290d8cb",
     "url": "/react-cocktail/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-cocktail/static/css/2.04aae6c4.chunk.css"
   },
   {
-    "revision": "bf578f71e7ee48cc7c7b",
+    "revision": "c20458c33d55cfdf7c7c",
     "url": "/react-cocktail/static/css/main.27e55d01.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-cocktail/static/js/2.69fbafa3.chunk.js"
   },
   {
-    "revision": "bf578f71e7ee48cc7c7b",
-    "url": "/react-cocktail/static/js/main.f838be30.chunk.js"
+    "revision": "c20458c33d55cfdf7c7c",
+    "url": "/react-cocktail/static/js/main.7572a15b.chunk.js"
   },
   {
     "revision": "ca0145fcd44672f2b6a6",
